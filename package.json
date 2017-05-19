@@ -92,7 +92,7 @@
     "rollup-plugin-mockr": "^1.0.1",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-babili": "^3.0.0",
-    "rollup-plugin-uglify": "^1.0.1",
+    "rollup-plugin-uglify": "^2.0.0",
     "sinon": "^2.1.0",
     "sinon-chai": "^2.8.0",
     "uglify-js": "^3.0.0"
