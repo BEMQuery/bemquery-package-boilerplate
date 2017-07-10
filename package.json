@@ -85,7 +85,7 @@
     "lolex": "^1.6.0",
     "mocha": "^3.4.2",
     "ncp": "^2.0.0",
-    "rollup": "^0.42.0",
+    "rollup": "^0.45.0",
     "rollup-plugin-babel": "^2.6.1",
     "rollup-plugin-babili": "^3.0.0",
     "rollup-plugin-commonjs": "^8.0.0",
