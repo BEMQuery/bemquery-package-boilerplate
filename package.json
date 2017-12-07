@@ -89,7 +89,7 @@
     "rollup-plugin-babel": "^3.0.0",
     "rollup-plugin-babili": "^3.0.0",
     "rollup-plugin-commonjs": "^8.0.0",
-    "rollup-plugin-istanbul": "^1.1.0",
+    "rollup-plugin-istanbul": "^2.0.0",
     "rollup-plugin-mockr": "^1.0.1",
     "rollup-plugin-node-resolve": "^3.0.0",
     "rollup-plugin-uglify": "^2.0.0",
