@@ -81,7 +81,7 @@
     "karma-html2js-preprocessor": "^1.0.0",
     "karma-json-fixtures-preprocessor": "0.0.6",
     "karma-mocha": "^1.0.1",
-    "karma-rollup-preprocessor": "^4.0.0",
+    "karma-rollup-preprocessor": "^5.0.3",
     "lolex": "^2.0.0",
     "mocha": "^4.0.0",
     "ncp": "^2.0.0",
